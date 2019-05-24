@@ -11,5 +11,3 @@ target
 log.xml
 .externalToolBuilders
 *.pyc
-*.iml
-.idea/

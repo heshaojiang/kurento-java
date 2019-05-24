@@ -34,6 +34,9 @@ import org.springframework.web.socket.TextMessage;
 import org.springframework.web.socket.WebSocketSession;
 import org.springframework.web.socket.handler.TextWebSocketHandler;
 
+/**
+ * 继承spring websocket处理类，实现自定义的处理类
+ */
 public class JsonRpcWebSocketHandler extends TextWebSocketHandler {
 
   public class MaxNumberWsConnectionsReachedException extends Exception {
