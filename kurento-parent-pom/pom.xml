@@ -120,7 +120,7 @@
 		<version.eclipse.aether>1.1.0</version.eclipse.aether>
 		<version.findbugs>3.0.1</version.findbugs>
 		<version.google.gson>2.8.5</version.google.gson>
-		<version.google.guava>23.6.1-jre</version.google.guava>
+		<version.google.guava>29.0-jre</version.google.guava>
 		<version.google.youtube>v3-rev153-1.21.0</version.google.youtube>
 		<version.google.http>1.21.0</version.google.http>
 		<version.google.oauth>1.21.0</version.google.oauth>
