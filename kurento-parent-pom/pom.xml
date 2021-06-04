@@ -109,7 +109,7 @@
 		<version.apache.commons-pool>2.4.2</version.apache.commons-pool>
 		<version.apache.tika>1.5</version.apache.tika>
 		<version.apache.fluent-hc>4.5.1</version.apache.fluent-hc>
-		<version.apache.httpclient>4.5.1</version.apache.httpclient>
+		<version.apache.httpclient>4.5.13</version.apache.httpclient>
 		<version.apache.httpcore>4.4.4</version.apache.httpcore>
 		<version.apache.maven-artifact>3.3.9</version.apache.maven-artifact>
 		<version.apache.source.assembly.descriptor>1.0.6</version.apache.source.assembly.descriptor>
